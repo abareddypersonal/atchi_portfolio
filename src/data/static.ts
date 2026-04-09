@@ -16,16 +16,16 @@ export const navLinks = [
 ];
 
 export const heroData = {
-  name: "Rajender Reddy Garlapally",
-  firstName: "G.Rajender",
-  lastName: "Reddy",
+  name: "Atchireddy Bareddy",
+  firstName: "Atchireddy",
+  lastName: "Bareddy",
   title: "Senior Software Engineer",
   company: "OSI Digital",
   location: "Hyderabad, India",
   description: "A highly skilled and experienced developer specializing in building robust and scalable mobile and web applications using technologies like React Native, React.js, Swift, AWS Cognito, Amplify, and GraphQL",
   socials: [
     { name: "linkedin", url: "https://www.linkedin.com/in/rajenderreddy-fullstackdeveloper/" },
-    { name: "email", url: "rajenderreddy.garlapalli@gmail.com" },
+    { name: "email", url: "atchireddyb@gmail.com" },
   ],
   cvURL: "",
 };
@@ -198,8 +198,8 @@ export const contactData = {
   contactInfo: {
     title: "Contact Information",
     details: [
-      { type: 'email', label: 'Email', value: 'rajenderreddy.garlapalli@gmail.com' },
-      { type: 'phone', label: 'Phone', value: '+91 8309008358, +91 9154175727'  },
+      { type: 'email', label: 'Email', value: 'atchireddyb@gmail.com' },
+      { type: 'phone', label: 'Phone', value: '+91 9908253711, +91 9398050812'  },
       { type: 'location', label: 'Location', value: 'Hyderabad, India' }
     ]
   },

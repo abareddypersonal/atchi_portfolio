@@ -71,7 +71,7 @@ const Projects: React.FC = () => {
               className="group bg-slate-700/50 rounded-xl overflow-hidden border border-slate-600/50 hover:border-purple-400/50 transition-all duration-300 backdrop-blur-sm"
             >
               {/* Project Image */}
-              {/* <div className="relative overflow-hidden h-48">
+              <div className="relative overflow-hidden h-48">
                 <img
                   src={project.image}
                   alt={project.title}
@@ -83,7 +83,7 @@ const Projects: React.FC = () => {
                     {project.category}
                   </span>
                 </div>
-              </div> */}
+              </div>
 
               {/* Project Content */}
               <div className="p-6">
